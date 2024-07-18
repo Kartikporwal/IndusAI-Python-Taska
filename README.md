@@ -1,1 +1,1 @@
-# IndusAI-Python-Taska
+# IndusAI-Python-Task
