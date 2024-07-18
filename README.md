@@ -1,7 +1,7 @@
 IndusAi Pyhton Intership Task
 Project Overview:-
 1. Guess the Number Game
-Description: A game where the computer randomly selects a number and the user has to guess it with hints provided.
+Description: A game where the computer randomly selects a number, and the user has to guess it with hints provided.
 
 2. To-Do List Application
 Description: A simple CLI-based to-do list manager where users can add, view, and delete tasks.
@@ -20,3 +20,4 @@ Description: A program to help users track their income and expenses, providing 
 
 7. Contact Book
 Description: An application to store and manage contact information, allowing users to add, delete, and search for contacts.
+
