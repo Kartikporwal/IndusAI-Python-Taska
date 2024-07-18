@@ -1,6 +1,6 @@
 IndusAi Pyhton Intership Task
 Project Overview:-
-1. Guess the Number Game:-
+1. GUESS THE NUMBER GAME:-
 
 Description: A game where the computer randomly selects a number, and the user has to guess it with hints provided.
 
